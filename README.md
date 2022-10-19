@@ -20,5 +20,7 @@ node ./dist/app.js
 ```
 
 ## License
-MIT
+[MIT](./LICENSE)
 
+## Enjoy 🥰
+![Sucrose](https://media.tenor.com/fPTVUorv9iMAAAAC/sucrose.gif)
